@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(216, 243, 252);
+    
+}
+#header{
+    padding:30px 0 0 500px;
+     background-color:lightblue;
+    height:100px;
+    width:100%;
+}
+.main{
+     font-size:20px;
+    padding-left:450px;
+    
+}
+#submit{
+    margin-top: 20px;
+    margin-left: 100px;;
+    color: lightcyan;
+    background-color: rgb(3, 110, 146);
+}
+#name
+:hover{
+   color: lightgray;
+}
